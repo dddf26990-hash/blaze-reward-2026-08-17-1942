@@ -1,0 +1,15 @@
+{
+  "icon_url": null,
+  "is_enabled": true,
+  "is_required": true,
+  "invite_url": "https://discord.gg/ssDxhyzK7w",
+  "name": "Bl4ze.Reward Partners",
+  "guild_id": "1421896911849525258",
+  "description": "Partner drops and reward alerts.",
+  "sort_order": 1,
+  "id": "6a82d01cb7ad28d3674497c4",
+  "created_date": "2026-08-17T09:10:52.969000",
+  "updated_date": "2026-08-17T09:10:52.969000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
