@@ -1,0 +1,20 @@
+{
+  "icon_url": null,
+  "icon_source": "none",
+  "is_visible": true,
+  "color": "#D4AF37",
+  "image_url": null,
+  "description": "Apps that reward physical activity.",
+  "seo_title": null,
+  "image_source": "none",
+  "is_deleted": false,
+  "name": "Walk for Rbx",
+  "seo_description": null,
+  "sort_order": 8,
+  "slug": "walk-for-rbx",
+  "id": "6a82cff2521fc70c8a830992",
+  "created_date": "2026-08-17T09:10:10.906000",
+  "updated_date": "2026-08-17T09:10:10.906000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
