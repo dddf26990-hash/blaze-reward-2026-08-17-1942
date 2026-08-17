@@ -1,0 +1,32 @@
+{
+  "like_count": 0,
+  "logo_url": null,
+  "description": null,
+  "click_count": 0,
+  "promo_code": null,
+  "has_copy_code": false,
+  "url": "https://earnne.com/?r=dddf26",
+  "platform": "any",
+  "tags": [],
+  "is_enabled": true,
+  "logo_source": "auto_favicon",
+  "admin_notes": null,
+  "is_archived": false,
+  "original_url": null,
+  "reward_info": null,
+  "name": "Earnne",
+  "warning": null,
+  "hero_image_url": null,
+  "mobile_compatible": true,
+  "category_ids": [
+    "6a82cff2521fc70c8a83098a"
+  ],
+  "sort_order": 0,
+  "is_featured": false,
+  "status": "active",
+  "id": "6a82d01e7a6d71aef6581d40",
+  "created_date": "2026-08-17T09:10:54.337000",
+  "updated_date": "2026-08-17T09:10:54.337000",
+  "created_by_id": "6a82cd9cb7ad28d36744964e",
+  "is_sample": false
+}
