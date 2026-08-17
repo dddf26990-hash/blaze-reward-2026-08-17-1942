@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: blaze-reward
+    ports:
+      - "8080:80"
+    env_file:
+      - .env
+    restart: unless-stopped
